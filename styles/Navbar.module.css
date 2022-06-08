@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    background-color: blueviolet;
+    padding: 20px 10px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: darkmagenta;
+    transition: .3s;
+}
+
+.navbar a:hover{
+    text-decoration: none;
+    margin-right: 1em;
+    color: darkmagenta;
+}
+
